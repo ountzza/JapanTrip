@@ -54,7 +54,7 @@
 
   12000 + 3900 + 19000 + 2000
 
-  TODO
+## TODO
   - Tokyo train day pass cost
   - Shinkansen price from kyoto to tokyo
   - Tokyo hotel/bnb cost
